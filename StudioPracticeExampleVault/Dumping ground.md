@@ -1,0 +1,1 @@
+A note to leave links and thoughts you don't know where file just yet.
