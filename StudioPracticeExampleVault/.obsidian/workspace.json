@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "43e66cca8459e175",
+    "type": "split",
+    "children": [
+      {
+        "id": "69025e39af18145c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39cf1d1561fbba37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2026-09-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-23"
+            }
+          },
+          {
+            "id": "e59f3f237f73fb04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2026-10-08 — Rethinking Interaction Through Everyday Actions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-08 — Rethinking Interaction Through Everyday Actions"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f52c39f55aa598b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "cda094641a42b849",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6af0cf2be0ebaf0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d9227cd0c94ce6ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4459f2d4da0bd2c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee160a430466c12d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c402b72af3e6d0cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6363f6cf87a9c97d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DailyNotes/2026-10-08 — Rethinking Interaction Through Everyday Actions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "b38b541bf6b2d0e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DailyNotes/2026-10-08 — Rethinking Interaction Through Everyday Actions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "2b1c8c07fa92c324",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "01287b9690fe80cb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "cd38e405e711511b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DailyNotes/2026-10-08 — Rethinking Interaction Through Everyday Actions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "e59f3f237f73fb04",
+  "lastOpenFiles": [
+    "Media/ArtistExamples/KeithHaring.jpeg",
+    "DailyNotes/2026-10-08 — Rethinking Interaction Through Everyday Actions.md",
+    "FeedbackNotes/00.00.26 Template.md",
+    "FeedbackNotes/23.09.26 Example.md",
+    "Media/RandomImages/CatReading.jpeg",
+    "Media/MySketches/StickFigure.png",
+    "9bdbc48752ad64e5fab8402c11583878 2.jpg",
+    "9bdbc48752ad64e5fab8402c11583878 1.jpg",
+    "9bdbc48752ad64e5fab8402c11583878.jpg",
+    "6d4210727abe8cc6041275677ace1c91.jpg",
+    "未命名",
+    "DailyNotes/2026-09-23.md",
+    "Help using Obsidian.md",
+    "TagQueries.md",
+    "ReadingList/A list of things I want to read.md"
+  ]
+}
